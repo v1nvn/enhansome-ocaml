@@ -71,7 +71,7 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Algorithms and Data Structures
 
-* [ODiff](https://github.com/dmtrKovalenko/odiff) ⭐ 2,836 | 🐛 14 | 🌐 Zig | 📅 2025-12-22 – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
+* [ODiff](https://github.com/dmtrKovalenko/odiff) ⭐ 2,838 | 🐛 14 | 🌐 Zig | 📅 2025-12-22 – Library of [YIQ NTSC transmission image difference alghoritm](http://www.progmat.uaem.mx:8080/artVol2Num2/Articulo3Vol2Num2.pdf) implemented in OCaml and ReasonML.
 * [OCamlgraph](https://github.com/backtracking/ocamlgraph) ⭐ 247 | 🐛 21 | 🌐 OCaml | 📅 2026-02-24 – A generic graph library for OCaml.
 * [Decompress](https://github.com/mirage/decompress) ⭐ 119 | 🐛 8 | 🌐 OCaml | 📅 2025-01-08 - A pure OCaml implementation of Zlib.
 * [ods](https://github.com/owainlewis/ods) ⭐ 56 | 🐛 1 | 🌐 OCaml | 📅 2026-01-13 – A large collection of data structures and algorithms for OCaml.
@@ -86,9 +86,9 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 * [Core](https://github.com/janestreet/core) ⭐ 1,219 | 🐛 15 | 🌐 OCaml | 📅 2026-01-15 – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel](https://github.com/janestreet/core_kernel) ⭐ 222 | 🐛 8 | 🌐 OCaml | 📅 2026-01-15.
 * [Base](https://github.com/janestreet/base) ⭐ 1,020 | 🐛 20 | 🌐 OCaml | 📅 2026-01-15 - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library.
 * [Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) ⭐ 522 | 🐛 90 | 🌐 OCaml | 📅 2025-10-07 – A community-maintained foundation library for your OCaml projects.
-* [ocaml-containers](https://github.com/c-cube/ocaml-containers) ⭐ 518 | 🐛 25 | 🌐 OCaml | 📅 2026-03-20 – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
+* [ocaml-containers](https://github.com/c-cube/ocaml-containers) ⭐ 518 | 🐛 25 | 🌐 OCaml | 📅 2026-03-23 – A lightweight, modular standard library extension, string library, and interfaces to various libraries (bigarrays, Unix, etc.) BSD license.
 * [Cmdliner](https://github.com/dbuenzli/cmdliner) ⭐ 333 | 🐛 13 | 🌐 OCaml | 📅 2026-02-13 – Declarative definition of command line interfaces for OCaml.
-* [ocaml-rpc](https://github.com/mirage/ocaml-rpc) ⭐ 100 | 🐛 9 | 🌐 OCaml | 📅 2026-03-20 – Light library to deal with RPCs in OCaml.
+* [ocaml-rpc](https://github.com/mirage/ocaml-rpc) ⭐ 100 | 🐛 12 | 🌐 OCaml | 📅 2026-03-20 – Light library to deal with RPCs in OCaml.
 * [easy-format](https://github.com/mjambon/easy-format) ⭐ 44 | 🐛 10 | 🌐 OCaml | 📅 2022-06-04 – Pretty-printing library for OCaml.
 * [Minicli](https://github.com/UnixJunkie/minicli) ⭐ 32 | 🐛 2 | 🌐 OCaml | 📅 2020-10-07 – Minimalist library for command-line parsing.
 * [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support for programs with time-varying values, declarative events, and signals.
@@ -126,8 +126,8 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Code Analysis and Linters
 
-* [flow](https://github.com/facebook/flow) ⭐ 22,216 | 🐛 611 | 🌐 Rust | 📅 2026-03-22 - flow is a static type checker for JavaScript.
-* [Infer](https://github.com/facebook/infer) ⭐ 15,554 | 🐛 417 | 🌐 OCaml | 📅 2026-03-20 - Infer is a static analyzer for Java, C and Objective-C
+* [flow](https://github.com/facebook/flow) ⭐ 22,212 | 🐛 611 | 🌐 Rust | 📅 2026-03-23 - flow is a static type checker for JavaScript.
+* [Infer](https://github.com/facebook/infer) ⭐ 15,554 | 🐛 417 | 🌐 OCaml | 📅 2026-03-23 - Infer is a static analyzer for Java, C and Objective-C
 * [SLAyer](https://github.com/Microsoft/SLAyer) ⚠️ Archived - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 * [coq-of-ocaml](https://github.com/formal-land/coq-of-ocaml) ⭐ 272 | 🐛 18 | 🌐 OCaml | 📅 2024-08-05 - Translator from OCaml to Coq to formally verify OCaml code.
 * [pfff](https://github.com/returntocorp/pfff) ⚠️ Archived – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
@@ -139,11 +139,11 @@ Your favorite package is not listed? Fork and [create a Pull Request](https://gi
 
 ## Program analysis
 
-* [BAP](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,219 | 🐛 42 | 🌐 OCaml | 📅 2025-04-30 - BAP is a reverse engineering and program analysis platform that targets binary programs.
+* [BAP](https://github.com/BinaryAnalysisPlatform/bap) ⭐ 2,221 | 🐛 42 | 🌐 OCaml | 📅 2025-04-30 - BAP is a reverse engineering and program analysis platform that targets binary programs.
 * [BinCat](https://github.com/airbus-seclab/bincat) ⭐ 1,854 | 🐛 18 | 🌐 OCaml | 📅 2025-02-25 - BinCat is a binary code static analysis toolkit.
-* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,327 | 🐛 27 | 🌐 Rust | 📅 2025-04-10 - cwe\_checker finds vulnerable patterns in binary executables.
-* [Owi](https://github.com/OCamlPro/owi) ⭐ 287 | 🐛 140 | 🌐 OCaml | 📅 2026-03-16 - Owi is a toolchain for working with WebAssembly (Wasm) in OCaml, featuring a powerful, parallel symbolic execution engine for Wasm. It also provides frontends for compiling and analyzing C and Rust programs.
-* [Smt.ml](https://github.com/formalsec/smtml) ⭐ 76 | 🐛 49 | 🌐 OCaml | 📅 2026-03-22 - Smt.ml is a frontend OCaml library that interfaces with multiple SMT solvers, enabling seamless integration of solvers like Z3, cvc5, Colibri2, Bitwuzla, and Alt-Ergo within OCaml programs.
+* [cwe\_checker](https://github.com/fkie-cad/cwe_checker) ⭐ 1,329 | 🐛 27 | 🌐 Rust | 📅 2025-04-10 - cwe\_checker finds vulnerable patterns in binary executables.
+* [Owi](https://github.com/OCamlPro/owi) ⭐ 287 | 🐛 140 | 🌐 OCaml | 📅 2026-03-23 - Owi is a toolchain for working with WebAssembly (Wasm) in OCaml, featuring a powerful, parallel symbolic execution engine for Wasm. It also provides frontends for compiling and analyzing C and Rust programs.
+* [Smt.ml](https://github.com/formalsec/smtml) ⭐ 76 | 🐛 49 | 🌐 OCaml | 📅 2026-03-23 - Smt.ml is a frontend OCaml library that interfaces with multiple SMT solvers, enabling seamless integration of solvers like Z3, cvc5, Colibri2, Bitwuzla, and Alt-Ergo within OCaml programs.
 
 ## Compilers and Compiler Tools
 
@@ -215,7 +215,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Databases
 
 * **New Implementations**
-  * [Irmin](https://github.com/mirage/irmin) ⭐ 1,931 | 🐛 141 | 🌐 OCaml | 📅 2026-03-20 — A distributed database that follows the same design principles as Git.
+  * [Irmin](https://github.com/mirage/irmin) ⭐ 1,932 | 🐛 141 | 🌐 OCaml | 📅 2026-03-20 — A distributed database that follows the same design principles as Git.
   * [RunOrg](https://github.com/RunOrg/RunOrg) ⭐ 12 | 🐛 6 | 🌐 OCaml | 📅 2015-03-22 - It is a WIP database server written in OCaml.
   * [dokeysto](https://github.com/UnixJunkie/dokeysto) ⭐ 10 | 🐛 1 | 🌐 OCaml | 📅 2025-09-22 - dumb OCaml key-value store, string keys and string
     values. Optional on-the-fly LZ4 compression of values or tokyocabinet backend.
@@ -254,11 +254,11 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Developer Tools
 
 * **Editor Integration**:
-  * [merlin](https://github.com/ocaml/merlin) ⭐ 1,673 | 🐛 293 | 🌐 OCaml | 📅 2026-03-16 – Context sensitive completion for OCaml in Vim and Emacs.
-  * [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 890 | 🐛 164 | 🌐 OCaml | 📅 2026-03-22 - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode) ⭐ 182,981 | 🐛 15,474 | 🌐 TypeScript | 📅 2026-03-23, Vim and Emacs.
+  * [merlin](https://github.com/ocaml/merlin) ⭐ 1,673 | 🐛 294 | 🌐 OCaml | 📅 2026-03-23 – Context sensitive completion for OCaml in Vim and Emacs.
+  * [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) ⭐ 890 | 🐛 164 | 🌐 OCaml | 📅 2026-03-22 - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode) ⭐ 183,008 | 🐛 15,470 | 🌐 TypeScript | 📅 2026-03-24, Vim and Emacs.
   * [tuareg](https://github.com/ocaml/tuareg) ⭐ 391 | 🐛 39 | 🌐 Emacs Lisp | 📅 2025-09-10 - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
-  * [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) ⭐ 234 | 🐛 24 | 🌐 OCaml | 📅 2026-02-25 – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode) ⭐ 182,981 | 🐛 15,474 | 🌐 TypeScript | 📅 2026-03-23
-  * [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) ⚠️ Archived – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) ⭐ 182,981 | 🐛 15,474 | 🌐 TypeScript | 📅 2026-03-23
+  * [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) ⭐ 234 | 🐛 24 | 🌐 OCaml | 📅 2026-02-25 – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode) ⭐ 183,008 | 🐛 15,470 | 🌐 TypeScript | 📅 2026-03-24
+  * [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) ⚠️ Archived – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode) ⭐ 183,008 | 🐛 15,470 | 🌐 TypeScript | 📅 2026-03-24
   * [merlin-eldoc](https://github.com/Khady/merlin-eldoc) ⭐ 45 | 🐛 5 | 🌐 Emacs Lisp | 📅 2023-02-13 – Emacs package to provide merlin's features through eldoc.
   * [ocp-indent](http://www.typerex.org/ocp-indent.html) – Indentation tool for OCaml, to be used from editors like Emacs and Vim.
     * [Vim plugin](https://github.com/def-lkb/ocp-indent-vim) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2018-03-23.
@@ -380,13 +380,13 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Large Source Code Examples
 
 * [Oni2](https://github.com/onivim/oni2) ⭐ 7,864 | 🐛 553 | 🌐 Reason | 📅 2022-08-17 - Native, lightweight modal code editor.
-* [coq](https://github.com/coq/coq) ⭐ 5,380 | 🐛 2,543 | 🌐 OCaml | 📅 2026-03-22 - formal proof management system
+* [coq](https://github.com/coq/coq) ⭐ 5,381 | 🐛 2,547 | 🌐 OCaml | 📅 2026-03-23 - formal proof management system
 * [mirage](https://github.com/mirage/mirage) ⭐ 2,863 | 🐛 59 | 🌐 OCaml | 📅 2026-03-11 -  library operating system that constructs unikernels for secure, high-performance network applications across a variety of cloud computing and mobile platforms
-* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,630 | 🐛 295 | 🌐 OCaml | 📅 2026-03-23 - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
+* [Liquidsoap](https://github.com/savonet/liquidsoap) ⭐ 1,631 | 🐛 299 | 🌐 OCaml | 📅 2026-03-24 - a swiss-army knife for multimedia streaming, notably used for netradios and webtvs
 * [Base](https://github.com/janestreet/base) ⭐ 1,020 | 🐛 20 | 🌐 OCaml | 📅 2026-01-15 - Standard library for OCaml
-* [libguestfs](https://github.com/libguestfs/libguestfs) ⭐ 710 | 🐛 58 | 🌐 C | 📅 2026-03-17 - library and tools for accessing and modifying virtual machine disk images
+* [libguestfs](https://github.com/libguestfs/libguestfs) ⭐ 710 | 🐛 59 | 🌐 C | 📅 2026-03-17 - library and tools for accessing and modifying virtual machine disk images
 * [cil](https://github.com/cil-project/cil) ⭐ 399 | 🐛 32 | 🌐 OCaml | 📅 2023-09-14 - C Intermediate Language
-* [xen-api](https://github.com/xapi-project/xen-api) ⭐ 360 | 🐛 90 | 🌐 OCaml | 📅 2026-03-20 - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool.
+* [xen-api](https://github.com/xapi-project/xen-api) ⭐ 360 | 🐛 96 | 🌐 OCaml | 📅 2026-03-24 - management stack that configures and controls Xen-enabled hosts and resource pools, and co-ordinates resources within the pool.
 * [MLDonkey](https://github.com/ygrek/mldonkey) ⭐ 331 | 🐛 54 | 🌐 OCaml | 📅 2025-01-28 - cross-platform multi-network peer-to-peer daemon
 * [pfff](https://github.com/returntocorp/pfff) ⚠️ Archived - an OCaml API to write static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 * [frama-c](https://git.frama-c.com/pub/frama-c) - platform dedicated to the analysis of source code written in C
@@ -402,7 +402,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Machine Learning
 
 * **Libraries**
-  * [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) ⭐ 440 | 🐛 11 | 🌐 OCaml | 📅 2024-10-17 - OCaml bindings for PyTorch.
+  * [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) ⭐ 441 | 🐛 11 | 🌐 OCaml | 📅 2024-10-17 - OCaml bindings for PyTorch.
   * [Ocaml-sklearn](https://github.com/lehy/ocaml-sklearn) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2020-12-09 scikit-learn for OCaml.
   * [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn) ⭐ 19 | 🐛 1 | 🌐 OCaml | 📅 2020-01-30.
   * [Ocaml-NN](https://github.com/ck090/ocaml-nn/tree/main) ⭐ 6 | 🐛 0 | 🌐 OCaml | 📅 2023-12-25 - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
@@ -455,7 +455,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Networking
 
 * **HTTP Tools**:
-  * [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) ⭐ 773 | 🐛 106 | 🌐 OCaml | 📅 2026-01-15 – Very lightweight HTTP server using Lwt or Async.
+  * [ocaml-cohttp](https://github.com/mirage/ocaml-cohttp) ⭐ 774 | 🐛 106 | 🌐 OCaml | 📅 2026-01-15 – Very lightweight HTTP server using Lwt or Async.
   * [httpaf](https://github.com/inhabitedtype/httpaf) ⭐ 536 | 🐛 26 | 🌐 OCaml | 📅 2024-05-27 – A high performance, memory efficient, and scalable web server written in OCaml.
   * [piaf](https://github.com/anmonteiro/piaf) ⭐ 211 | 🐛 16 | 🌐 OCaml | 📅 2025-10-01 - Client/server library for HTTP/1.X / HTTP/2 written entirely in OCaml.
   * [ocurl](https://github.com/ygrek/ocurl) ⭐ 61 | 🐛 8 | 🌐 C | 📅 2026-03-06 – OCaml bindings to libcurl.
@@ -473,7 +473,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 ## Package Management
 
 * **Build Tools**:
-  * [dune](https://github.com/ocaml/dune) ⭐ 1,855 | 🐛 1,076 | 🌐 OCaml | 📅 2026-03-22 – A composable and opinionated build system for OCaml (former jbuilder)
+  * [dune](https://github.com/ocaml/dune) ⭐ 1,855 | 🐛 1,082 | 🌐 OCaml | 📅 2026-03-24 – A composable and opinionated build system for OCaml (former jbuilder)
   * [ocaml-makefile](https://github.com/mmottl/ocaml-makefile) ⭐ 80 | 🐛 0 | 🌐 OCaml | 📅 2025-07-21 — Easy to use Makefile for small to medium-sized OCaml-projects.
   * [topkg](https://github.com/dbuenzli/topkg) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2025-11-11 — OPAM-aware packaging system using ocamlbuild.
   * [obuild](https://github.com/ocaml-obuild/obuild) ⭐ 55 | 🐛 36 | 🌐 OCaml | 📅 2026-03-09 – Simple package build system for ocaml.
@@ -512,7 +512,7 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 ## Printers helpers
 
-* [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) ⭐ 1,855 | 🐛 1,076 | 🌐 OCaml | 📅 2026-03-22 in Dune. It appears to also be fully manual.
+* [**dyn** ](https://github.com/ocaml/dune/blob/4b95cd3d1b3a62e69a9a9db2bc4af2f9fd2e56d8/otherlibs/dyn/dyn.mli) ⭐ 1,855 | 🐛 1,082 | 🌐 OCaml | 📅 2026-03-24 in Dune. It appears to also be fully manual.
 * [**ppx\_deriving** ](https://github.com/ocaml-ppx/ppx_deriving#usage) ⭐ 510 | 🐛 47 | 🌐 OCaml | 📅 2026-02-11’s `[@@deriving show]`.
 * Reason's native [**Console.log**](https://github.com/reasonml/reason-native/tree/master/src/console#consoleloganything) ⭐ 460 | 🐛 50 | 🌐 Reason | 📅 2024-05-07
 * [**refl** ](https://github.com/thierry-martinez/refl#basic-usage) ⭐ 53 | 🐛 0 | 🌐 OCaml | 📅 2022-11-16, a ppx\_deriving-like.
@@ -663,4 +663,4 @@ With the introduction of [Effect Handlers](https://ocaml.org/manual/effects.html
 
 ***
 
-*Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,300 | 🐛 49 | 🌐 Ruby | 📅 2024-06-02 :sparkles:.*
+*Inspired by awesome projects line. Discover [more awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,305 | 🐛 49 | 🌐 Ruby | 📅 2024-06-02 :sparkles:.*
